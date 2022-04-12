@@ -32,7 +32,7 @@ Feel free to reach out to me using any of my socials below!
 <br/>
 
 
-## Rapidfire
+## About Me
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on my Frontend Skills on [Frontend Mentor ](https://www.frontendmentor.io/home)
